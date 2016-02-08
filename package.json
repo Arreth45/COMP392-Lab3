@@ -4,9 +4,9 @@
   "description": "A project to transpile TypeScript to JavaScript with gulp workflows",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tsiliopoulos/typescriptgulp.git"
+    "url": "https://github.com/Arreth45/COMP392-Lab3.git"
   },
-  "author": "Tom Tsiliopoulos",
+  "author": "Jacob Parnell",
   "license": "ISC",
   "dependencies": {
     "gulp": "^3.9.0",

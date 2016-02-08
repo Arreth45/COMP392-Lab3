@@ -3,11 +3,11 @@
   "description": "",
   "main": "index.js",
   "authors": [
-    "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>"
+    "Jacob Parnell <arreth45@gmail.com>"
   ],
   "license": "ISC",
   "moduleType": [],
-  "homepage": "",
+  "homepage": "https://github.com/Arreth45/COMP392-Lab3",
   "ignore": [
     "**/.*",
     "node_modules",
