@@ -1,3 +1,3 @@
-# typescriptgulp
+# COMP392 - Lab 3
 
-Example project to transpile TypeScript to JavaScript by using Gulp Automation
+Example lab to transpile TypeScript to JavaScript by using Gulp Automation
