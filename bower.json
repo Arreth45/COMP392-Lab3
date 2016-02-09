@@ -1,7 +1,7 @@
 {
   "name": "comp392-lab 3",
   "description": "",
-  "main": "index.js",
+  "main": "game.js",
   "authors": [
     "Jacob Parnell <arreth45@gmail.com>"
   ],

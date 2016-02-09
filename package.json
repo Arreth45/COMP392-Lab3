@@ -1,23 +1,27 @@
 {
-  "name": "COMP392-Lab 3",
+  "name": "comp392-lab3",
   "version": "1.0.0",
-  "description": "A project to transpile TypeScript to JavaScript with gulp workflows",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Arreth45/COMP392-Lab3.git"
-  },
-  "author": "Jacob Parnell",
-  "license": "ISC",
-  "dependencies": {
-    "gulp": "^3.9.0",
-    "gulp-bower": "0.0.13",
+  "description": "Example lab to transpile TypeScript to JavaScript by using Gulp Automation",
+  "main": "game.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
     "gulp-connect": "^2.3.1",
     "gulp-debug": "^2.1.2",
     "gulp-inject": "^3.0.0",
     "gulp-open": "^1.0.0",
-    "gulp-rimraf": "^0.2.0",
     "gulp-sourcemaps": "^1.6.0",
     "gulp-typescript": "^2.10.0",
     "gulp-util": "^3.0.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arreth45/COMP392-Lab3.git"
+  },
+  "author": "Jacob Parnell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arreth45/COMP392-Lab3/issues"
+  },
+  "homepage": "https://github.com/Arreth45/COMP392-Lab3#readme"
 }
